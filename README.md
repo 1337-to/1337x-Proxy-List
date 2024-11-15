@@ -4,9 +4,9 @@
 Here is a list of the 1337x torrent proxy sites. We tested all of these 1337x proxy sites and all registered sites were working at the time of writing.
 
 - [https://1337x.hashhackers.com](https://1337x.hashhackers.com)
-- [https://1337x.proxyninja.org](https://1337x-to.pages.dev)
-- [https://1337x.proxyninja.net](https://1337x-to-proxy.pages.dev)
-- [https://1337x.torrentsbay.org](https://justaproxy.pages.dev)
+- [https://1337x-to.pages.dev](https://1337x-to.pages.dev)
+- [https://1337x-to-proxy.pages.dev](https://1337x-to-proxy.pages.dev)
+- [https://justaproxy.pages.dev](https://justaproxy.pages.dev)
 
 
 
